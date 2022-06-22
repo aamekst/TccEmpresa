@@ -1,0 +1,22 @@
+body {
+    margin: 4vw;
+    background-color: blue;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+.carousel-control-next {
+    width: 30px;
+}
+
+.carousel-control-prev {
+    width: 30px;
+}
+
+#imgdog {
+    width: 100px;
+    height: 100px;
+}
